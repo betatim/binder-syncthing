@@ -24,9 +24,10 @@
         <autoAcceptFolders>false</autoAcceptFolders>
     </device>
     <gui enabled="true" tls="false" debugging="false">
-        <address>0.0.0.0:8384</address>
+        <address>127.0.0.1:8384</address>
         <apikey>K47bq9sKNSx9E44Nhn5r2LdhnX6Qpe4E</apikey>
         <theme>default</theme>
+        <insecureSkipHostcheck>true</insecureSkipHostcheck>
     </gui>
     <options>
         <listenAddress>default</listenAddress>
