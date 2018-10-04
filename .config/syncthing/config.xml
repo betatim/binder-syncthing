@@ -46,14 +46,14 @@
         <natLeaseMinutes>60</natLeaseMinutes>
         <natRenewalMinutes>30</natRenewalMinutes>
         <natTimeoutSeconds>10</natTimeoutSeconds>
-        <urAccepted>0</urAccepted>
+        <urAccepted>-1</urAccepted>
         <urSeen>0</urSeen>
         <urUniqueID>EDNwh7pC</urUniqueID>
         <urURL>https://data.syncthing.net/newdata</urURL>
         <urPostInsecurely>false</urPostInsecurely>
-        <urInitialDelayS>1800</urInitialDelayS>
+        <urInitialDelayS>18000000000000000000</urInitialDelayS>
         <restartOnWakeup>true</restartOnWakeup>
-        <autoUpgradeIntervalH>12</autoUpgradeIntervalH>
+        <autoUpgradeIntervalH>0</autoUpgradeIntervalH>
         <upgradeToPreReleases>false</upgradeToPreReleases>
         <keepTemporariesH>24</keepTemporariesH>
         <cacheIgnoredFiles>false</cacheIgnoredFiles>
