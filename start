@@ -1,5 +1,5 @@
 #!/bin/bash
 
-syncthing&
+syncthing -disable-upgrade&
 
 exec "$@"
