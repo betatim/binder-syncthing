@@ -1,5 +1,7 @@
 #!/bin/bash
 
-syncthing -disable-upgrade&
+export STNOUPGRADE=1
+
+syncthing &
 
 exec "$@"
