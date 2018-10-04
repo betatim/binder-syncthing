@@ -51,7 +51,7 @@
         <urUniqueID>EDNwh7pC</urUniqueID>
         <urURL>https://data.syncthing.net/newdata</urURL>
         <urPostInsecurely>false</urPostInsecurely>
-        <urInitialDelayS>18000000000000000000</urInitialDelayS>
+        <urInitialDelayS>180</urInitialDelayS>
         <restartOnWakeup>true</restartOnWakeup>
         <autoUpgradeIntervalH>0</autoUpgradeIntervalH>
         <upgradeToPreReleases>false</upgradeToPreReleases>
