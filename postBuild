@@ -1,5 +1,8 @@
 #!/bin/bash
 
+pip install https://github.com/jupyterhub/nbserverproxy/archive/master.zip
+jupyter serverextension enable --py nbserverproxy
+
 cd /tmp
 wget https://github.com/syncthing/syncthing/releases/download/v1.0.0/syncthing-linux-amd64-v1.0.0.tar.gz
 
