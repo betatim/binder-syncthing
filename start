@@ -2,6 +2,6 @@
 
 export STNOUPGRADE=1
 
-syncthing &
+/tmp/syncthing/syncthing &
 
 exec "$@"
