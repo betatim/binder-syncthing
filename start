@@ -2,6 +2,6 @@
 
 export STNOUPGRADE=1
 
-/tmp/syncthing/syncthing-linux-amd64-v1.0.0/syncthing &
+/tmp/syncthing/syncthing-linux-amd64-v1.2.2/syncthing &
 
 exec "$@"
